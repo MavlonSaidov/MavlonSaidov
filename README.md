@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)]
 <h1 align="center">Hi 👋, I'm Mavlon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"
